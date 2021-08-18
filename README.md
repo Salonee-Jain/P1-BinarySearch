@@ -16,5 +16,5 @@ ValueToFind = 10
 Output:
 
 ```python
-Index = 4
+Index = 3
 ```
